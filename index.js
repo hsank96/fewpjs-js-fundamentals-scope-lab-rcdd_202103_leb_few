@@ -1,6 +1,6 @@
 let animal = "cat";
 let  two = 2;
-let n =5;
+const n =5;
 
 function myAnimal() {
   return animal;
