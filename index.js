@@ -1,4 +1,4 @@
-let animal = "dog"
+let animal = "cat"
 let  two = 2;
 let n =5;
 
